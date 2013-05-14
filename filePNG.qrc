@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>img/about.png</file>
+        <file>img/config.png</file>
+        <file>img/fansize.png</file>
+        <file>img/new.png</file>
+        <file>img/qtlogo.png</file>
+        <file>img/seach.png</file>
+        <file>img/windowIcon.png</file>
+        <file>img/debug.png</file>
+        <file>img/splash.jpg</file>
+        <file>img/login.jpg</file>
+    </qresource>
+</RCC>
